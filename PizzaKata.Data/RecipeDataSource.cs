@@ -70,7 +70,7 @@ public class RecipeDataSource : IRecipeDataSource
                 new(4, AddAnchovy),
                 new(5, AddCaper),
             }),
-            new(3, "Hawaian", new()
+            new(4, "Hawaian", new()
             {
                 new(1, PrepareDough),
                 new(2, AddTomatoesForCooking),
